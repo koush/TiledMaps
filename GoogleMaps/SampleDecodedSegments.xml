@@ -1,0 +1,163 @@
+﻿<table class="ddr_steps" id="ddr_steps_0">
+  <tr class="dirsegment" id="panel_0_0">
+    <td class="icon pw">
+      <img src="http://www.google.com/intl/en_us/mapfiles/transparent.png" width="16" height="16"/>
+    </td>
+    <td class="num">
+      <a href="javascript:void(0)" onclick="this.blur()">1</a>.
+    </td>
+    <td class="dirsegtext" id="dirsegtext_0_0">
+      Head <b>northeast</b> on <b>James St</b> toward <b>5th Ave</b>
+    </td>
+    <td class="sdist">
+      <div id="sxdist" class="nw">486\x26#160;ft</div>
+    </td>
+  </tr>
+  <tr class="dirsegment" id="panel_0_2">
+    <td class="icon pw">
+      <img src="http://www.google.com/intl/en_us/mapfiles/rarrow01.png" width="16" height="16"/>
+    </td>
+    <td class="num">
+      <a href="javascript:void(0)" onclick="this.blur()">2</a>.
+    </td>
+    <td class="dirsegtext" id="dirsegtext_0_2">
+      Turn <b>right</b> at <b>6th Ave</b>
+    </td>
+    <td class="sdist">
+      <div id="sxdist" class="nw">463\x26#160;ft</div>
+    </td>
+  </tr>
+  <tr class="dirsegment" id="panel_0_4">
+    <td class="icon pw">
+      <img src="http://www.google.com/intl/en_us/mapfiles/larrow01.png" width="16" height="16"/>
+    </td>
+    <td class="num">
+      <a href="javascript:void(0)" onclick="this.blur()">3</a>.
+    </td>
+    <td class="dirsegtext" id="dirsegtext_0_4">
+      Take the ramp on the <b>left</b> onto <b>I-90 E</b> <div class="dirsegnote note_PROVINCE_BORDER">Passing through Idaho</div><div class="dirsegnote note_PROVINCE_BORDER">Entering Montana</div>
+    </td>
+    <td class="sdist">
+      <div id="sxdist" class="nw">824\x26#160;mi</div>
+      <div id="sxtime" class="segtime nw pw">11 hours 35 mins</div>
+    </td>
+  </tr>
+  <tr class="dirsegment" id="panel_0_4920">
+    <td class="icon pw">
+      <img src="http://www.google.com/intl/en_us/mapfiles/transparent.png" width="16" height="16"/>
+    </td>
+    <td class="num">
+      <a href="javascript:void(0)" onclick="this.blur()">4</a>.
+    </td>
+    <td class="dirsegtext" id="dirsegtext_0_4920">
+      Continue on <b>I-94 E</b> <div class="dirsegnote note_PROVINCE_BORDER">Passing through North Dakota</div><div class="dirsegnote note_PROVINCE_BORDER">Entering Minnesota</div>
+    </td>
+    <td class="sdist">
+      <div id="sxdist" class="nw">824\x26#160;mi</div>
+      <div id="sxtime" class="segtime nw pw">11 hours 20 mins</div>
+    </td>
+  </tr>
+  <tr class="dirsegment" id="panel_0_7586">
+    <td class="icon pw">
+      <img src="http://www.google.com/intl/en_us/mapfiles/transparent.png" width="16" height="16"/>
+    </td>
+    <td class="num">
+      <a href="javascript:void(0)" onclick="this.blur()">5</a>.
+    </td>
+    <td class="dirsegtext" id="dirsegtext_0_7586">
+      Continue straight onto <b>I-694 E</b> (signs for <b>I-694 E</b>)
+    </td>
+    <td class="sdist">
+      <div id="sxdist" class="nw">23.8\x26#160;mi</div>
+      <div id="sxtime" class="segtime nw pw">25 mins</div>
+    </td>
+  </tr>
+  <tr class="dirsegment" id="panel_0_7699">
+    <td class="icon pw">
+      <img src="http://www.google.com/intl/en_us/mapfiles/transparent.png" width="16" height="16"/>
+    </td>
+    <td class="num">
+      <a href="javascript:void(0)" onclick="this.blur()">6</a>.
+    </td>
+    <td class="dirsegtext" id="dirsegtext_0_7699">
+      Take exit <b>58B</b> for <b>I-94 E</b> toward <b>Madison</b>
+    </td>
+    <td class="sdist">
+      <div id="sxdist" class="nw">0.3\x26#160;mi</div>
+    </td>
+  </tr>
+  <tr class="dirsegment" id="panel_0_7712">
+    <td class="icon pw">
+      <img src="http://www.google.com/intl/en_us/mapfiles/larrow01.png" width="16" height="16"/>
+    </td>
+    <td class="num">
+      <a href="javascript:void(0)" onclick="this.blur()">7</a>.
+    </td>
+    <td class="dirsegtext" id="dirsegtext_0_7712">
+      Keep <b>left</b> at the fork to continue toward <b>I-94 E</b> and merge onto <b>I-94 E</b> <div class="dirsegnote note_PROVINCE_BORDER">Entering Wisconsin</div>
+    </td>
+    <td class="sdist">
+      <div id="sxdist" class="nw">248\x26#160;mi</div>
+      <div id="sxtime" class="segtime nw pw">3 hours 50 mins</div>
+    </td>
+  </tr>
+  <tr class="dirsegment" id="panel_0_8667">
+    <td class="icon pw">
+      <img src="http://www.google.com/intl/en_us/mapfiles/transparent.png" width="16" height="16"/>
+    </td>
+    <td class="num">
+      <a href="javascript:void(0)" onclick="this.blur()">8</a>.
+    </td>
+    <td class="dirsegtext" id="dirsegtext_0_8667">
+      Continue on <b>I-90 E</b> <div class="dirsegnote important_note note_PARTIAL_TOLL">Partial toll road</div><div class="dirsegnote note_PROVINCE_BORDER">Entering Illinois</div>
+    </td>
+    <td class="sdist">
+      <div id="sxdist" class="nw">141\x26#160;mi</div>
+      <div id="sxtime" class="segtime nw pw">2 hours 21 mins</div>
+    </td>
+  </tr>
+  <tr class="dirsegment" id="panel_0_9069">
+    <td class="icon pw">
+      <img src="http://www.google.com/intl/en_us/mapfiles/transparent.png" width="16" height="16"/>
+    </td>
+    <td class="num">
+      <a href="javascript:void(0)" onclick="this.blur()">9</a>.
+    </td>
+    <td class="dirsegtext" id="dirsegtext_0_9069">
+      Take exit <b>50B</b> for <b>E Ohio St</b>
+    </td>
+    <td class="sdist">
+      <div id="sxdist" class="nw">1.1\x26#160;mi</div>
+      <div id="sxtime" class="segtime nw pw">2 mins</div>
+    </td>
+  </tr>
+  <tr class="dirsegment" id="panel_0_9085">
+    <td class="icon pw">
+      <img src="http://www.google.com/intl/en_us/mapfiles/transparent.png" width="16" height="16"/>
+    </td>
+    <td class="num">
+      <a href="javascript:void(0)" onclick="this.blur()">10</a>.
+    </td>
+    <td class="dirsegtext" id="dirsegtext_0_9085">
+      Merge onto <b>W Ohio St</b>
+    </td>
+    <td class="sdist">
+      <div id="sxdist" class="nw">0.2\x26#160;mi</div>
+    </td>
+  </tr>
+  <tr class="dirsegment" id="panel_0_9087">
+    <td class="icon pw">
+      <img src="http://www.google.com/intl/en_us/mapfiles/rarrow01.png" width="16" height="16"/>
+    </td>
+    <td class="num">
+      <a href="javascript:void(0)" onclick="this.blur()">11</a>.
+    </td>
+    <td class="dirsegtext" id="dirsegtext_0_9087">
+      Turn <b>right</b> at <b>N LaSalle Blvd</b>
+    </td>
+    <td class="sdist">
+      <div id="sxdist" class="nw">0.6\x26#160;mi</div>
+      <div id="sxtime" class="segtime nw pw">3 mins</div>
+    </td>
+  </tr>
+</table>
